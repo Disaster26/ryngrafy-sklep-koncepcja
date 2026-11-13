@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Ryngrafy malowane ręcznie z Częstochowy | ryngrafy.com.pl</title>
+<meta name="description" content="Koncepcja nowego sklepu ryngrafy.com.pl: ryngrafy patriotyczne i maryjne z mosiądzu, malowane ręcznie farbami olejnymi, z grawerem dedykacji.">
+<meta name="theme-color" content="#A3182A">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 120'%3E%3Cpath d='M6 10Q50 20 94 10L95 62Q95 98 50 117Q5 98 5 62Z' fill='%23A3182A'/%3E%3Cpath d='M16 21Q50 28 84 21L85 62Q85 91 50 106Q15 91 15 62Z' fill='none' stroke='%23fff' stroke-width='4'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&display=swap" rel="stylesheet">
+<link rel="preload" as="image" href="img/hero.webp" media="(min-width:761px)">
+<link rel="preload" as="image" href="img/hero-m.webp" media="(max-width:760px)">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="demo-bar" role="note"><span class="dl">Wersja demonstracyjna nowego sklepu. Zamówienia i płatności nie są realizowane.</span><span class="ds">Wersja demonstracyjna, bez realnych płatności</span></div>
+<header class="hdr" id="hdr">
+  <div class="hdr-in wrap">
+    <button class="burger" id="burger" aria-label="Menu" aria-expanded="false" aria-controls="mnav"><span></span><span></span><span></span></button>
+    <a class="logo" href="#/" aria-label="ryngrafy.com.pl, strona główna">
+      <svg class="logo-mark" viewBox="0 0 100 120" aria-hidden="true"><path d="M6 10Q50 20 94 10L95 62Q95 98 50 117Q5 98 5 62Z" fill="currentColor"/><path d="M16 21Q50 28 84 21L85 62Q85 91 50 106Q15 91 15 62Z" fill="none" stroke="#fff" stroke-width="4"/><path d="M50 40v40M36 54h28" stroke="#fff" stroke-width="5" stroke-linecap="round"/></svg>
+      <span class="logo-txt"><span><b>ryngrafy</b>.com.pl</span><small>Pracownia w Częstochowie</small></span>
+    </a>
+    <form class="hsearch" id="hsearch" role="search" autocomplete="off">
+      <label class="sr" for="q">Szukaj w sklepie</label>
+      <input id="q" type="search" placeholder="Szukaj: Ostrobramska, św. Florian, R002" enterkeyhint="search">
+      <button type="submit" aria-label="Szukaj"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/></svg></button>
+      <div class="sugg" id="sugg" role="listbox" hidden></div>
+    </form>
+    <a class="hphone" href="tel:+48509798144"><span>Zamówienia i pytania</span>509 798 144</a>
+    <button class="sbtn" id="sbtn" aria-label="Szukaj"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/></svg></button>
+    <button class="cartbtn" id="cartbtn" aria-label="Koszyk">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 8h14l-1.2 11.2a2 2 0 0 1-2 1.8H8.2a2 2 0 0 1-2-1.8z"/><path d="M9 8V6.5a3 3 0 0 1 6 0V8"/></svg>
+      <span class="cart-lbl">Koszyk</span><span class="cart-n" id="cartN">0</span>
+    </button>
+  </div>
+  <nav class="cnav" aria-label="Kategorie">
+    <div class="wrap cnav-in" id="cnav"></div>
+  </nav>
+</header>
+<div class="mnav" id="mnav" hidden>
+  <div class="mnav-in" id="mnavIn"></div>
+</div>
+
+<main id="app" tabindex="-1"></main>
+
+<footer class="ftr">
+  <div class="wrap ftr-grid">
+    <div class="ftr-brand">
+      <a class="logo logo-inv" href="#/"><svg class="logo-mark" viewBox="0 0 100 120" aria-hidden="true"><path d="M6 10Q50 20 94 10L95 62Q95 98 50 117Q5 98 5 62Z" fill="currentColor"/><path d="M16 21Q50 28 84 21L85 62Q85 91 50 106Q15 91 15 62Z" fill="none" stroke="#14161B" stroke-width="4"/><path d="M50 40v40M36 54h28" stroke="#14161B" stroke-width="5" stroke-linecap="round"/></svg><span class="logo-txt"><span><b>ryngrafy</b>.com.pl</span></span></a>
+      <p>Ryngrafy, szkaplerze i płaskorzeźby malowane ręcznie w rodzinnej pracowni w Częstochowie.</p>
+    </div>
+    <div>
+      <h3>Sklep</h3>
+      <ul id="fcats"></ul>
+    </div>
+    <div>
+      <h3>Zakupy</h3>
+      <ul>
+        <li><a href="#/info/dostawa">Dostawa i płatność</a></li>
+        <li><a href="#/info/zwroty">Zwroty i reklamacje</a></li>
+        <li><a href="#/grawer">Grawer dedykacji</a></li>
+        <li><a href="#/info/hurt">Zamówienia hurtowe</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Kontakt</h3>
+      <ul>
+        <li><a href="tel:+48509798144">+48 509 798 144</a></li>
+        <li><a href="mailto:sklep@und24.pl">sklep@und24.pl</a></li>
+        <li>Częstochowa</li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap ftr-bot">
+    <span>© <span id="yr">2026</span> ryngrafy.com.pl · Regulamin · Polityka prywatności</span>
+    <style>
+.wylinka-badge{display:inline-flex;align-items:center;gap:.4em;color:inherit;text-decoration:none;font-size:.875em;line-height:1;opacity:.85}
+.wylinka-badge:hover,.wylinka-badge:focus-visible{opacity:1}
+.wylinka-badge:focus-visible{outline:2px solid currentColor;outline-offset:3px;border-radius:2px}
+.wylinka-badge svg{width:18px;height:18px;flex:none;overflow:visible}
+.wylinka-badge b{font-weight:600}
+.wylinka-badge .wy-old{opacity:.45;transform-origin:40px 30px;transition:transform .32s cubic-bezier(.3,.7,.4,1),opacity .32s ease-out}
+.wylinka-badge .wy-pod{opacity:0;transition:opacity .2s ease-out .08s}
+.wylinka-badge:hover .wy-old,.wylinka-badge:focus-visible .wy-old{transform:translate(9px,7px) rotate(9deg);opacity:0}
+.wylinka-badge:hover .wy-pod,.wylinka-badge:focus-visible .wy-pod{opacity:1}
+@media (prefers-reduced-motion:reduce){.wylinka-badge .wy-old,.wylinka-badge .wy-pod{transition:none}.wylinka-badge:hover .wy-old,.wylinka-badge:focus-visible .wy-old{transform:none;opacity:.45}.wylinka-badge:hover .wy-pod,.wylinka-badge:focus-visible .wy-pod{opacity:0}}
+</style>
+<a class="wylinka-badge" href="https://wylinka.pl/?utm_source=ryngrafy.com.pl&amp;utm_medium=stopka&amp;utm_campaign=wykonanie" rel="noopener" title="Strona wykonana przez Wylinka"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false" fill="currentColor"><path d="M9.8 22.8l-1.2-7.9 2.2-3.7 15.5 4.6-.5 1.5-7.2 5.5 4.7 15.6 5-15.6 7 0 4.1 12.7-4.2-.9-2.6 1.8-.8-2.2-5.3 15.6-4.3 0 .4 .2-2.1 2.8-1.3-1.1 1.1-1.4-3.1 .2-.1-1.7 2.2-.1-5.7-16.5-4.8 .6-.8 3.1 0 .5-.3 .5 .8 2.2-1.6 .5-.4-1.3-.8 1.6-1.5-.8 .8-1.6-1.4 .6-.6-1.6 2.3-.8 .2-.4 1.3-4.8 5.9-.8-2.4-6.9zM15.2 13.7l-.1-.4-.4 .8-.1 .8 .1 1 .1 .4 .3 .7 .3-.9 .1-.7 0-.8z"/><path class="wy-pod" d="M37.1 49.8l-4.5-13.3 2.6-1.8 4.2 .9 .9 2.8 3-9.7 0-.5 .1-.8 3.2-8.4 .5-1 .6-1 .9-1.1 1.3-1 1.1-.7 1.4-.5 1.4-.3 .7 0 .9 0 1.2 .3 1.4 .6 .8 .5 .7 .7 .6 .7 .5 .9 .3 .9 .1 .9 0 .8-.2 .9-.5 .9-.5 .6-.7 .5-.7 .3-.1-.1 0-.1 .5-.5 .3-.7 .2-.5 0-.6-.1-.6-.3-.7-.4-.5-.4-.4-.5-.3-.6-.3-.7 0-.7 .1-.6 .1-.5 .4-.5 .5-.3 .5-.2 .7-.1 1.5-1.4 5.1-.8 3.3-.3 .7-.5 .7-6 17.5 1.9 .1-.1 1.7-3.1-.2 1.1 1.4-1.3 1.1-2.1-2.8 .4-.2z"/><path class="wy-old" d="M40.8 50l.4-.2-4.1 0-4.2-12.5 2.5-1.7 4.3 .9 .6 1.9 .6-1.6 0-.3 2.4-7.8 0-.5 .1-.8 3.2-8.4 .4-.8 .6-.9 .9-1.2 .9-.9 1.3-.8 1.4-.6 1.2-.3 1.4-.1 1.3 .1 .6 .2 .8 .3 1.1 .6 .9 .7 .7 .9 .5 .9 .3 .9 .1 1.1-.1 .9-.3 .9-.4 .7-.6 .7-.6 .4-.6 .2-.1-.1 0-.1 .5-.5 .3-.7 .2-.5 0-.5-.1-.6-.2-.6-.3-.5-.4-.5-.5-.3-.6-.3-.7-.1-.6 0-.6 .1-.6 .3-.6 .5-.3 .4-.2 .5-.1 .5-.1 1.5-1.4 5.1-.8 3.3-.3 .7-.5 .7-6 17.5 1.9 .1-.1 1.7-3.1-.2 1.1 1.4-1.3 1.1zM49.6 17.1l.6 1.7-1.5 1.9 .4 .4 1.8-2.1-.7-2.1zM48.1 28.3l.5 1.8-1.7 1.8 .4 .4 1.9-2-.6-2.2zM37.9 41.7l1.7-1.5-.4-.4-1.7 1.4zM42.6 38.7l-1.5 2.8 1.1 2-1.3 2.6 .5 .2 1.5-2.8-1.1-2 1.4-2.5z"/></svg><span>wykonanie: <b>Wylinka</b></span></a>
+  </div>
+</footer>
+
+<div class="scrim" id="scrim" hidden></div>
+<aside class="drawer" id="drawer" aria-label="Koszyk" aria-hidden="true" tabindex="-1">
+  <div class="drawer-hd"><h2>Koszyk</h2><button class="x" id="drawerX" aria-label="Zamknij koszyk">×</button></div>
+  <div class="drawer-bd" id="drawerBd"></div>
+  <div class="drawer-ft" id="drawerFt"></div>
+</aside>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>

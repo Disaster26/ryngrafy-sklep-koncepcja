@@ -1,0 +1,1503 @@
+[
+ {
+  "id": "r002",
+  "sku": "R002",
+  "name": "Ryngraf Matka Boża Częstochowska z orłem, „Bóg Honor Ojczyzna”",
+  "cat": "patriotyczne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R002A",
+    "label": "10 × 13 cm"
+   },
+   {
+    "code": "R002B",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R002C",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R002-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r002.webp",
+    "alt": "Ryngraf Matka Boża Częstochowska z orłem, „Bóg Honor Ojczyzna”"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego. Na tarczy orzeł w koronie, w nim wizerunek Matki Bożej Częstochowskiej i szarfa REGINA POLONIAE.",
+  "tags": [
+   "wojsko",
+   "chrzest",
+   "jubileusz"
+  ],
+  "search": "ryngraf matka boża częstochowska z orłem, „bóg honor ojczyzna” r002 mosiądz patynowanego, grawer, malowanie olejne wojsko chrzest jubileusz"
+ },
+ {
+  "id": "r012",
+  "sku": "R012",
+  "name": "Ryngraf „Bóg Honor Ojczyzna”, wersja posrebrzana",
+  "cat": "patriotyczne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz posrebrzanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R012A",
+    "label": "10 × 13 cm"
+   },
+   {
+    "code": "R012B",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R012C",
+    "label": "25 × 31 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r012.webp",
+    "alt": "Ryngraf „Bóg Honor Ojczyzna”, wersja posrebrzana"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu posrebrzanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego. Ten sam wzór co R002 w chłodnym, srebrnym wykończeniu.",
+  "tags": [
+   "wojsko"
+  ],
+  "search": "ryngraf „bóg honor ojczyzna”, wersja posrebrzana r012 mosiądz posrebrzanego, grawer, malowanie olejne wojsko"
+ },
+ {
+  "id": "r032",
+  "sku": "R032",
+  "name": "Ryngraf „Bóg Honor Ojczyzna”, ciemna patyna",
+  "cat": "patriotyczne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego (ciemna patyna), grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R032A",
+    "label": "10 × 13 cm"
+   },
+   {
+    "code": "R032B",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R032C",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R032-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r032.webp",
+    "alt": "Ryngraf „Bóg Honor Ojczyzna”, ciemna patyna"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego (ciemna patyna), grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego. Ciemna patyna mocniej wydobywa rysunek orła i grawer.",
+  "tags": [
+   "wojsko"
+  ],
+  "search": "ryngraf „bóg honor ojczyzna”, ciemna patyna r032 mosiądz patynowanego (ciemna patyna), grawer, malowanie olejne wojsko"
+ },
+ {
+  "id": "r028",
+  "sku": "R028",
+  "name": "Ryngraf „Bóg Honor Ojczyzna” w zdobionej ramce",
+  "cat": "patriotyczne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R028A",
+    "label": "10 × 13 cm"
+   },
+   {
+    "code": "R028B",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R028C",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R028-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r028.webp",
+    "alt": "Ryngraf „Bóg Honor Ojczyzna” w zdobionej ramce"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego. Tarcza z ozdobną ramką wzdłuż krawędzi.",
+  "tags": [
+   "wojsko",
+   "jubileusz"
+  ],
+  "search": "ryngraf „bóg honor ojczyzna” w zdobionej ramce r028 mosiądz patynowanego, grawer, malowanie olejne wojsko jubileusz"
+ },
+ {
+  "id": "r031",
+  "sku": "R031",
+  "name": "Ryngraf „Bóg Honor Ojczyzna” w zdobionej ramce, ciemna patyna",
+  "cat": "patriotyczne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego (ciemna patyna), grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R031A",
+    "label": "10 × 13 cm"
+   },
+   {
+    "code": "R031B",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R031C",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R031-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r031.webp",
+    "alt": "Ryngraf „Bóg Honor Ojczyzna” w zdobionej ramce, ciemna patyna"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego (ciemna patyna), grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego.",
+  "tags": [
+   "wojsko"
+  ],
+  "search": "ryngraf „bóg honor ojczyzna” w zdobionej ramce, ciemna patyna r031 mosiądz patynowanego (ciemna patyna), grawer, malowanie olejne wojsko"
+ },
+ {
+  "id": "r037",
+  "sku": "R037",
+  "name": "Ryngraf „Bóg Honor Ojczyzna”, duży, ramka zdobiona",
+  "cat": "patriotyczne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R037",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R037-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r037.webp",
+    "alt": "Ryngraf „Bóg Honor Ojczyzna”, duży, ramka zdobiona"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego. Występuje w jednym, dużym formacie.",
+  "tags": [
+   "jubileusz"
+  ],
+  "search": "ryngraf „bóg honor ojczyzna”, duży, ramka zdobiona r037 mosiądz patynowanego, grawer, malowanie olejne jubileusz"
+ },
+ {
+  "id": "r013",
+  "sku": "R013",
+  "name": "Ryngraf z orłem w koronie, „Regina Poloniae”",
+  "cat": "patriotyczne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R013A",
+    "label": "10 × 13 cm"
+   },
+   {
+    "code": "R013B",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R013C",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R013-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r013.webp",
+    "alt": "Ryngraf z orłem w koronie, „Regina Poloniae”"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego.",
+  "tags": [
+   "wojsko"
+  ],
+  "search": "ryngraf z orłem w koronie, „regina poloniae” r013 mosiądz patynowanego, grawer, malowanie olejne wojsko"
+ },
+ {
+  "id": "r004",
+  "sku": "R004",
+  "name": "Ryngraf Matka Boża Częstochowska z panopliami",
+  "cat": "patriotyczne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R004A",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R004B",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R004-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r004.webp",
+    "alt": "Ryngraf Matka Boża Częstochowska z panopliami"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego. Wizerunek otoczony panopliami, czyli kompozycją z broni i sztandarów.",
+  "tags": [
+   "wojsko"
+  ],
+  "search": "ryngraf matka boża częstochowska z panopliami r004 mosiądz patynowanego, grawer, malowanie olejne wojsko"
+ },
+ {
+  "id": "j002",
+  "sku": "J002",
+  "name": "Ryngraf Matka Boża Katyńska",
+  "cat": "patriotyczne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "J002A",
+    "label": "10 × 13 cm"
+   },
+   {
+    "code": "J002B",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "J002-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/j002.webp",
+    "alt": "Ryngraf Matka Boża Katyńska"
+   },
+   {
+    "src": "img/p/j002-opak.webp",
+    "alt": "Ryngraf w opakowaniu prezentowym"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego. Projekt wykonany ku pamięci Zbrodni Katyńskiej 1940 roku.",
+  "tags": [
+   "pamięć"
+  ],
+  "search": "ryngraf matka boża katyńska j002 mosiądz patynowanego, grawer, malowanie olejne pamięć"
+ },
+ {
+  "id": "r007",
+  "sku": "R007",
+  "name": "Ryngraf Matka Boża Częstochowska w koronie, „Maryjo Królowo Polski”",
+  "cat": "maryjne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R007A",
+    "label": "8 × 10 cm"
+   },
+   {
+    "code": "R007B",
+    "label": "10 × 13 cm"
+   },
+   {
+    "code": "R007C",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R007D",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R007-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r007.webp",
+    "alt": "Ryngraf Matka Boża Częstochowska w koronie, „Maryjo Królowo Polski”"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego.",
+  "tags": [
+   "chrzest",
+   "komunia",
+   "ślub"
+  ],
+  "search": "ryngraf matka boża częstochowska w koronie, „maryjo królowo polski” r007 mosiądz patynowanego, grawer, malowanie olejne chrzest komunia ślub"
+ },
+ {
+  "id": "r027",
+  "sku": "R027",
+  "name": "Ryngraf „Maryjo Królowo Polski”, korona z kamieniami Swarovskiego",
+  "cat": "maryjne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R027A",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R027B",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R027-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r027.webp",
+    "alt": "Ryngraf „Maryjo Królowo Polski”, korona z kamieniami Swarovskiego"
+   },
+   {
+    "src": "img/p/kamienie.webp",
+    "alt": "Korona zdobiona kamieniami Swarovskiego"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego. Korona wizerunku zdobiona kamieniami Swarovskiego, ramka zdobiona.",
+  "tags": [
+   "ślub",
+   "jubileusz"
+  ],
+  "search": "ryngraf „maryjo królowo polski”, korona z kamieniami swarovskiego r027 mosiądz patynowanego, grawer, malowanie olejne ślub jubileusz"
+ },
+ {
+  "id": "r035",
+  "sku": "R035",
+  "name": "Ryngraf z kamieniami Swarovskiego, ciemna patyna",
+  "cat": "maryjne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego (ciemna patyna), grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R035A",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R035B",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R035-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r035.webp",
+    "alt": "Ryngraf z kamieniami Swarovskiego, ciemna patyna"
+   },
+   {
+    "src": "img/p/kamienie.webp",
+    "alt": "Korona zdobiona kamieniami Swarovskiego"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego (ciemna patyna), grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego. Korona zdobiona kamieniami Swarovskiego, ramka zdobiona.",
+  "tags": [
+   "ślub",
+   "jubileusz"
+  ],
+  "search": "ryngraf z kamieniami swarovskiego, ciemna patyna r035 mosiądz patynowanego (ciemna patyna), grawer, malowanie olejne ślub jubileusz"
+ },
+ {
+  "id": "r009",
+  "sku": "R009",
+  "name": "Ryngraf Matka Boża Częstochowska z nimbem",
+  "cat": "maryjne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R009A",
+    "label": "8 × 10 cm"
+   },
+   {
+    "code": "R009B",
+    "label": "10 × 13 cm"
+   },
+   {
+    "code": "R009C",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R009D",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R009-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r009.webp",
+    "alt": "Ryngraf Matka Boża Częstochowska z nimbem"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego.",
+  "tags": [
+   "chrzest",
+   "komunia"
+  ],
+  "search": "ryngraf matka boża częstochowska z nimbem r009 mosiądz patynowanego, grawer, malowanie olejne chrzest komunia"
+ },
+ {
+  "id": "r011",
+  "sku": "R011",
+  "name": "Ryngraf Matka Boża Ostrobramska",
+  "cat": "maryjne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R011A",
+    "label": "8 × 10 cm"
+   },
+   {
+    "code": "R011B",
+    "label": "10 × 13 cm"
+   },
+   {
+    "code": "R011C",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R011D",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R011-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r011.webp",
+    "alt": "Ryngraf Matka Boża Ostrobramska"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego.",
+  "tags": [
+   "chrzest",
+   "ślub"
+  ],
+  "search": "ryngraf matka boża ostrobramska r011 mosiądz patynowanego, grawer, malowanie olejne chrzest ślub"
+ },
+ {
+  "id": "r017",
+  "sku": "R017",
+  "name": "Ryngraf Matka Boża Kalwaryjska",
+  "cat": "maryjne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "R017A",
+    "label": "8 × 10 cm"
+   },
+   {
+    "code": "R017B",
+    "label": "10 × 13 cm"
+   },
+   {
+    "code": "R017C",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "R017D",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "R017-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/r017.webp",
+    "alt": "Ryngraf Matka Boża Kalwaryjska"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego.",
+  "tags": [
+   "jubileusz"
+  ],
+  "search": "ryngraf matka boża kalwaryjska r017 mosiądz patynowanego, grawer, malowanie olejne jubileusz"
+ },
+ {
+  "id": "j010",
+  "sku": "J010",
+  "name": "Ryngraf Matka Boża Częstochowska i św. Jan Paweł II",
+  "cat": "maryjne",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "material": "mosiądz patynowanego, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "J010A",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "J010B",
+    "label": "25 × 31 cm"
+   },
+   {
+    "code": "J010-S",
+    "label": "32 × 42 cm (na specjalne zamówienie)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/j010.webp",
+    "alt": "Ryngraf Matka Boża Częstochowska i św. Jan Paweł II"
+   },
+   {
+    "src": "img/p/j010-opak.webp",
+    "alt": "Ryngraf w opakowaniu prezentowym"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf wykonany w pracowni w Częstochowie z mosiądzu patynowanego, grawerowany i malowany ręcznie farbami olejnymi. To nie jest wyrób masowy: każdy egzemplarz powstaje na zamówienie. Ryngraf otrzymuje certyfikat ręcznego wykonania i trafia do opakowania prezentowego. Projekt powstał z okazji beatyfikacji Jana Pawła II.",
+  "tags": [
+   "jubileusz",
+   "kapłan"
+  ],
+  "search": "ryngraf matka boża częstochowska i św. jan paweł ii j010 mosiądz patynowanego, grawer, malowanie olejne jubileusz kapłan"
+ },
+ {
+  "id": "f001",
+  "sku": "F001",
+  "name": "Ryngraf św. Florian z motywem OSP",
+  "cat": "strazacy",
+  "price": null,
+  "made": true,
+  "engrave": true,
+  "sash": true,
+  "material": "mosiądz patynowany, grawer, malowanie olejne",
+  "sizes": [
+   {
+    "code": "F001A",
+    "label": "13 × 17 cm"
+   },
+   {
+    "code": "F001B",
+    "label": "25 × 31 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f001.webp",
+    "alt": "Ryngraf św. Florian OSP"
+   },
+   {
+    "src": "img/p/opakowanie.webp",
+    "alt": "Opakowanie prezentowe (zdjęcie pracowni)"
+   },
+   {
+    "src": "img/p/rewers-grawer.webp",
+    "alt": "Przykład graweru na rewersie"
+   }
+  ],
+  "desc": "Ryngraf z wizerunkiem św. Floriana, patrona strażaków, z motywem OSP. Mosiądz patynowany, grawerowany, malowany ręcznie techniką malarstwa olejnego, z certyfikatem ręcznego wykonania, w opakowaniu prezentowym. Tekst na szarfach podajesz przy zamówieniu i jest wliczony w cenę ryngrafu.",
+  "tags": [
+   "OSP",
+   "strażak"
+  ],
+  "search": "ryngraf św. florian z motywem osp f001 mosiądz patynowany, grawer, malowanie olejne osp strażak"
+ },
+ {
+  "id": "f003",
+  "sku": "F003",
+  "name": "Medalik św. Florian, kopia projektu z lat 40.",
+  "cat": "strazacy",
+  "price": 5.8,
+  "made": false,
+  "engrave": false,
+  "material": "metal posrebrzany oksydowany",
+  "sizes": [
+   {
+    "code": "F003",
+    "label": "1,6 × 2,5 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f003.webp",
+    "alt": "Medalik św. Florian, kopia projektu z lat 40."
+   }
+  ],
+  "desc": "Wierna kopia medalika zaprojektowanego w latach 40. na prośbę polskich strażaków, którzy wyemigrowali do Stanów Zjednoczonych. Na rewersie prośba w dwóch językach: „St. Florian pray for Us” i „Święty Florianie módl się za Ns”. Łańcuszek kulkowy 12 cm, jak przy nieśmiertelnikach. Pakowany na plakiecie z okolicznościowym nadrukiem lub modlitwą, w przezroczystej folii.",
+  "tags": [
+   "OSP",
+   "PSP"
+  ],
+  "search": "medalik św. florian, kopia projektu z lat 40. f003 metal posrebrzany oksydowany osp psp"
+ },
+ {
+  "id": "f004",
+  "sku": "F004",
+  "name": "Odznaka tarcza św. Florian, motyw OSP",
+  "cat": "strazacy",
+  "price": 14.8,
+  "made": false,
+  "engrave": false,
+  "material": "mosiądz, żywica poliestrowa",
+  "sizes": [
+   {
+    "code": "F004",
+    "label": "3,3 × 4,1 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f004.webp",
+    "alt": "Odznaka tarcza św. Florian, motyw OSP"
+   },
+   {
+    "src": "img/p/f004-2.webp",
+    "alt": "Odznaka przypięta do munduru"
+   }
+  ],
+  "desc": "Odznaka z hasłem „Zawsze Gotowi Bogu na Chwałę Ludziom na Pożytek”. Mosiądz wybijany z pełnej matrycy, motyw OSP z żywicy poliestrowej, mocowanie na trzpień gwintowany 3 mm z nakrętką. Pakowany na plakiecie z okolicznościowym nadrukiem lub modlitwą, w przezroczystej folii.",
+  "tags": [
+   "OSP"
+  ],
+  "search": "odznaka tarcza św. florian, motyw osp f004 mosiądz, żywica poliestrowa osp"
+ },
+ {
+  "id": "f005",
+  "sku": "F005",
+  "name": "Odznaka tarcza św. Florian, motyw PSP",
+  "cat": "strazacy",
+  "price": 14.8,
+  "made": false,
+  "engrave": false,
+  "material": "mosiądz, żywica poliestrowa",
+  "sizes": [
+   {
+    "code": "F005",
+    "label": "3,3 × 4,1 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f005.webp",
+    "alt": "Odznaka tarcza św. Florian, motyw PSP"
+   }
+  ],
+  "desc": "Odznaka z hasłem „Zawsze Gotowi Bogu na Chwałę Ludziom na Pożytek”, motyw PSP. Mosiądz wybijany z pełnej matrycy, mocowanie na trzpień gwintowany 3 mm z nakrętką. Pakowany na plakiecie z okolicznościowym nadrukiem lub modlitwą, w przezroczystej folii.",
+  "tags": [
+   "PSP"
+  ],
+  "search": "odznaka tarcza św. florian, motyw psp f005 mosiądz, żywica poliestrowa psp"
+ },
+ {
+  "id": "f006",
+  "sku": "F006",
+  "name": "Znaczek pins św. Florian",
+  "cat": "strazacy",
+  "price": 7.0,
+  "made": false,
+  "engrave": false,
+  "material": "mosiądz",
+  "sizes": [
+   {
+    "code": "F006",
+    "label": "1,8 × 2,1 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f006.webp",
+    "alt": "Znaczek pins św. Florian"
+   }
+  ],
+  "desc": "Znaczek z wizerunkiem św. Floriana, mosiądz wybijany z pełnej matrycy, praktyczne zapięcie. Pakowany na plakiecie z okolicznościowym nadrukiem lub modlitwą, w przezroczystej folii.",
+  "tags": [
+   "OSP",
+   "PSP"
+  ],
+  "search": "znaczek pins św. florian f006 mosiądz osp psp"
+ },
+ {
+  "id": "f007",
+  "sku": "F007",
+  "name": "Odznaka plakieta św. Florian, krzyż",
+  "cat": "strazacy",
+  "price": 8.8,
+  "made": false,
+  "engrave": false,
+  "material": "metal posrebrzany oksydowany",
+  "sizes": [
+   {
+    "code": "F007",
+    "label": "2,5 × 2,5 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f007.webp",
+    "alt": "Odznaka plakieta św. Florian, krzyż"
+   }
+  ],
+  "desc": "Plakieta z hasłem „Święty Florianie Chroń Mnie”, mocowanie na aletkę, tak jak orzełki wojskowe. Pakowany na plakiecie z okolicznościowym nadrukiem lub modlitwą, w przezroczystej folii.",
+  "tags": [
+   "OSP",
+   "PSP"
+  ],
+  "search": "odznaka plakieta św. florian, krzyż f007 metal posrebrzany oksydowany osp psp"
+ },
+ {
+  "id": "f008",
+  "sku": "F008",
+  "name": "Różaniec dziesiątka św. Florian, szkło, ognista czerwień",
+  "cat": "strazacy",
+  "price": 7.8,
+  "made": false,
+  "engrave": false,
+  "material": "szkło szlifowane fasetowane 10 mm, łańcuszek posrebrzany",
+  "sizes": [
+   {
+    "code": "F008",
+    "label": "dł. 18-19 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f008.webp",
+    "alt": "Różaniec dziesiątka św. Florian, szkło, ognista czerwień"
+   }
+  ],
+  "desc": "Dziesiątka z wyjątkowym medalikiem św. Floriana. Łącznik: na awersie Matka Boża Częstochowska Królowa Polski, na rewersie św. Jan Paweł II. Miniaturowy karabińczyk pozwala zapiąć różaniec w dowolnym miejscu. Pakowany na plakiecie z okolicznościowym nadrukiem lub modlitwą, w przezroczystej folii.",
+  "tags": [
+   "różaniec"
+  ],
+  "search": "różaniec dziesiątka św. florian, szkło, ognista czerwień f008 szkło szlifowane fasetowane 10 mm, łańcuszek posrebrzany różaniec"
+ },
+ {
+  "id": "f009",
+  "sku": "F009",
+  "name": "Różaniec dziesiątka św. Florian, szkło, czerń grafitowa",
+  "cat": "strazacy",
+  "price": 7.8,
+  "made": false,
+  "engrave": false,
+  "material": "szkło szlifowane fasetowane 10 mm, łańcuszek posrebrzany",
+  "sizes": [
+   {
+    "code": "F009",
+    "label": "dł. 18-19 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f009.webp",
+    "alt": "Różaniec dziesiątka św. Florian, szkło, czerń grafitowa"
+   }
+  ],
+  "desc": "Dziesiątka z wyjątkowym medalikiem św. Floriana. Łącznik: na awersie Matka Boża Częstochowska Królowa Polski, na rewersie św. Jan Paweł II. Miniaturowy karabińczyk pozwala zapiąć różaniec w dowolnym miejscu. Pakowany na plakiecie z okolicznościowym nadrukiem lub modlitwą, w przezroczystej folii.",
+  "tags": [
+   "różaniec"
+  ],
+  "search": "różaniec dziesiątka św. florian, szkło, czerń grafitowa f009 szkło szlifowane fasetowane 10 mm, łańcuszek posrebrzany różaniec"
+ },
+ {
+  "id": "f010",
+  "sku": "F010",
+  "name": "Różaniec dziesiątka św. Florian, drewno, czerwień",
+  "cat": "strazacy",
+  "price": 9.8,
+  "made": false,
+  "engrave": false,
+  "material": "drewno egzotyczne",
+  "sizes": [
+   {
+    "code": "F010",
+    "label": "dł. 20 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f010.webp",
+    "alt": "Różaniec dziesiątka św. Florian, drewno, czerwień"
+   }
+  ],
+  "desc": "Dziesiątka z wyjątkowym medalikiem św. Floriana. Łącznik: na awersie Matka Boża Częstochowska Królowa Polski, na rewersie św. Jan Paweł II. Miniaturowy karabińczyk pozwala zapiąć różaniec w dowolnym miejscu. Pakowany na plakiecie z okolicznościowym nadrukiem lub modlitwą, w przezroczystej folii.",
+  "tags": [
+   "różaniec"
+  ],
+  "search": "różaniec dziesiątka św. florian, drewno, czerwień f010 drewno egzotyczne różaniec"
+ },
+ {
+  "id": "f011",
+  "sku": "F011",
+  "name": "Różaniec dziesiątka św. Florian, drewno, czerń",
+  "cat": "strazacy",
+  "price": 9.8,
+  "made": false,
+  "engrave": false,
+  "material": "drewno egzotyczne",
+  "sizes": [
+   {
+    "code": "F011",
+    "label": "dł. 20 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f011.webp",
+    "alt": "Różaniec dziesiątka św. Florian, drewno, czerń"
+   }
+  ],
+  "desc": "Dziesiątka z wyjątkowym medalikiem św. Floriana. Łącznik: na awersie Matka Boża Częstochowska Królowa Polski, na rewersie św. Jan Paweł II. Miniaturowy karabińczyk pozwala zapiąć różaniec w dowolnym miejscu. Pakowany na plakiecie z okolicznościowym nadrukiem lub modlitwą, w przezroczystej folii.",
+  "tags": [
+   "różaniec"
+  ],
+  "search": "różaniec dziesiątka św. florian, drewno, czerń f011 drewno egzotyczne różaniec"
+ },
+ {
+  "id": "f012",
+  "sku": "F012",
+  "name": "Różaniec dziesiątka św. Florian, hematyt",
+  "cat": "strazacy",
+  "price": 11.8,
+  "made": false,
+  "engrave": false,
+  "material": "kamień hematyt",
+  "sizes": [
+   {
+    "code": "F012",
+    "label": "dł. 18 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f012.webp",
+    "alt": "Różaniec dziesiątka św. Florian, hematyt"
+   }
+  ],
+  "desc": "Dziesiątka z wyjątkowym medalikiem św. Floriana. Łącznik: na awersie Matka Boża Częstochowska Królowa Polski, na rewersie św. Jan Paweł II. Miniaturowy karabińczyk pozwala zapiąć różaniec w dowolnym miejscu. Pakowany na plakiecie z okolicznościowym nadrukiem lub modlitwą, w przezroczystej folii.",
+  "tags": [
+   "różaniec"
+  ],
+  "search": "różaniec dziesiątka św. florian, hematyt f012 kamień hematyt różaniec"
+ },
+ {
+  "id": "f013",
+  "sku": "F013",
+  "name": "Znaczek pins OSP",
+  "cat": "strazacy",
+  "price": 7.0,
+  "made": false,
+  "engrave": false,
+  "material": "mosiądz",
+  "sizes": [
+   {
+    "code": "F013",
+    "label": "2,0 × 2,0 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f013.webp",
+    "alt": "Znaczek pins OSP"
+   }
+  ],
+  "desc": "Odwzorowanie logo Związku Ochotniczych Straży Pożarnych RP, znaczek w klapę, mosiądz wybijany z pełnej matrycy, mocowanie na trzpień gwintowany. Pakowany na plakiecie z okolicznościowym nadrukiem lub modlitwą, w przezroczystej folii.",
+  "tags": [
+   "OSP"
+  ],
+  "search": "znaczek pins osp f013 mosiądz osp"
+ },
+ {
+  "id": "f014",
+  "sku": "F014",
+  "name": "Znaczek pins PSP",
+  "cat": "strazacy",
+  "price": 7.0,
+  "made": false,
+  "engrave": false,
+  "material": "mosiądz",
+  "sizes": [
+   {
+    "code": "F014",
+    "label": "1,5 × 1,8 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/f014.webp",
+    "alt": "Znaczek pins PSP"
+   }
+  ],
+  "desc": "Odwzorowanie logo Państwowej Straży Pożarnej, znaczek w klapę, mosiądz wybijany z pełnej matrycy, mocowanie na trzpień gwintowany. Pakowany na plakiecie z okolicznościowym nadrukiem lub modlitwą, w przezroczystej folii.",
+  "tags": [
+   "PSP"
+  ],
+  "search": "znaczek pins psp f014 mosiądz psp"
+ },
+ {
+  "id": "ryn4",
+  "sku": "RYN4",
+  "name": "Ryngraf mały Matka Boża Częstochowska, „Bóg Honor Ojczyzna”",
+  "cat": "miniatury",
+  "price": 38.0,
+  "made": false,
+  "engrave": false,
+  "material": "metal, kolor stare srebro",
+  "sizes": [
+   {
+    "code": "RYN4",
+    "label": "5,0 × 5,5 cm (z łańcuszkiem 9,0 cm)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/ryn4.webp",
+    "alt": "Ryngraf mały Matka Boża Częstochowska, „Bóg Honor Ojczyzna”"
+   }
+  ],
+  "desc": "Ryngraf z wizerunkiem Matki Bożej Częstochowskiej w orle z koroną. Na górnej szarfie BÓG HONOR OJCZYZNA, u dołu POD TWOJĄ OBRONĘ. Z łańcuszkiem do zawieszenia.",
+  "tags": [
+   "wojsko"
+  ],
+  "search": "ryngraf mały matka boża częstochowska, „bóg honor ojczyzna” ryn4 metal, kolor stare srebro wojsko"
+ },
+ {
+  "id": "ryn5",
+  "sku": "RYN5",
+  "name": "Ryngraf mały Matka Boża Ostrobramska, „Bóg Honor Ojczyzna”",
+  "cat": "miniatury",
+  "price": 38.0,
+  "made": false,
+  "engrave": false,
+  "material": "metal, kolor stare srebro",
+  "sizes": [
+   {
+    "code": "RYN5",
+    "label": "5,0 × 5,5 cm (z łańcuszkiem 9,0 cm)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/ryn5.webp",
+    "alt": "Ryngraf mały Matka Boża Ostrobramska, „Bóg Honor Ojczyzna”"
+   }
+  ],
+  "desc": "Ryngraf z wizerunkiem Matki Bożej Ostrobramskiej w orle z koroną. Na górnej szarfie BÓG HONOR OJCZYZNA, u dołu POD TWOJĄ OBRONĘ. Z łańcuszkiem do zawieszenia.",
+  "tags": [
+   "wojsko"
+  ],
+  "search": "ryngraf mały matka boża ostrobramska, „bóg honor ojczyzna” ryn5 metal, kolor stare srebro wojsko"
+ },
+ {
+  "id": "ryn2",
+  "sku": "RYN2",
+  "name": "Ryngraf miniatura, stare złoto",
+  "cat": "miniatury",
+  "price": 14.0,
+  "made": false,
+  "engrave": false,
+  "material": "metal, kolor stare złoto",
+  "sizes": [
+   {
+    "code": "RYN2",
+    "label": "3,0 × 3,4 cm (z łańcuszkiem 6,0 cm)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/ryn2.webp",
+    "alt": "Ryngraf miniatura, stare złoto"
+   }
+  ],
+  "desc": "Miniaturowy ryngraf z Matką Bożą Częstochowską w orle z koroną. Mieści się w portfelu, można go zawiesić w samochodzie.",
+  "tags": [
+   "kierowca"
+  ],
+  "search": "ryngraf miniatura, stare złoto ryn2 metal, kolor stare złoto kierowca"
+ },
+ {
+  "id": "ryn3",
+  "sku": "RYN3",
+  "name": "Ryngraf miniatura, stare srebro",
+  "cat": "miniatury",
+  "price": 14.0,
+  "made": false,
+  "engrave": false,
+  "material": "metal, kolor stare srebro",
+  "sizes": [
+   {
+    "code": "RYN3",
+    "label": "3,0 × 3,4 cm (z łańcuszkiem 6,0 cm)"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/ryn3.webp",
+    "alt": "Ryngraf miniatura, stare srebro"
+   }
+  ],
+  "desc": "Miniaturowy ryngraf z Matką Bożą Częstochowską w orle z koroną, w kolorze starego srebra. Mieści się w portfelu, można go zawiesić w samochodzie.",
+  "tags": [
+   "kierowca"
+  ],
+  "search": "ryngraf miniatura, stare srebro ryn3 metal, kolor stare srebro kierowca"
+ },
+ {
+  "id": "pl2",
+  "sku": "PL2",
+  "name": "Przypinka flaga Polski",
+  "cat": "miniatury",
+  "price": 14.0,
+  "made": false,
+  "engrave": false,
+  "material": "metal, kolor złoty, emalia",
+  "sizes": [
+   {
+    "code": "PL2",
+    "label": "13 × 14 mm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/pl2.webp",
+    "alt": "Przypinka flaga Polski"
+   },
+   {
+    "src": "img/p/pl2-2.webp",
+    "alt": "Na karcie prezentowej"
+   }
+  ],
+  "desc": "Miniaturowa flaga w kolorze złotym, wypełniona białą i czerwoną emalią, mocowanie euroklips.",
+  "tags": [
+   "święta narodowe"
+  ],
+  "search": "przypinka flaga polski pl2 metal, kolor złoty, emalia święta narodowe"
+ },
+ {
+  "id": "pl3",
+  "sku": "PL3",
+  "name": "Przypinka flaga z orłem",
+  "cat": "miniatury",
+  "price": 15.0,
+  "made": false,
+  "engrave": false,
+  "material": "metal, kolor srebrny, emalia",
+  "sizes": [
+   {
+    "code": "PL3",
+    "label": "20 × 19 mm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/pl3.webp",
+    "alt": "Przypinka flaga z orłem"
+   },
+   {
+    "src": "img/p/pl3-2.webp",
+    "alt": "Na karcie prezentowej"
+   }
+  ],
+  "desc": "Orzełek międzywojenny na biało-czerwonej fladze, mocowanie euroklips.",
+  "tags": [
+   "święta narodowe"
+  ],
+  "search": "przypinka flaga z orłem pl3 metal, kolor srebrny, emalia święta narodowe"
+ },
+ {
+  "id": "pl4",
+  "sku": "PL4",
+  "name": "Przypinka orzeł w koronie",
+  "cat": "miniatury",
+  "price": 10.0,
+  "made": false,
+  "engrave": false,
+  "material": "metal oksydowany, kolor srebrny",
+  "sizes": [
+   {
+    "code": "PL4",
+    "label": "16 × 25 mm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/pl4.webp",
+    "alt": "Przypinka orzeł w koronie"
+   },
+   {
+    "src": "img/p/pl4-2.webp",
+    "alt": "Na karcie prezentowej"
+   }
+  ],
+  "desc": "Miniatura orzełka międzywojennego, mocowanie euroklips.",
+  "tags": [
+   "wojsko"
+  ],
+  "search": "przypinka orzeł w koronie pl4 metal oksydowany, kolor srebrny wojsko"
+ },
+ {
+  "id": "p001",
+  "sku": "P001",
+  "name": "Płaskorzeźba Matka Boża Częstochowska z nimbem",
+  "cat": "wizerunki",
+  "price": null,
+  "made": true,
+  "engrave": false,
+  "material": "płaskorzeźba posrebrzana, malowanie olejne",
+  "sizes": [
+   {
+    "code": "P001A",
+    "label": "6 × 10 cm"
+   },
+   {
+    "code": "P001B",
+    "label": "4 × 7 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/p001.webp",
+    "alt": "Płaskorzeźba Matka Boża Częstochowska z nimbem"
+   },
+   {
+    "src": "img/p/p001-2.webp",
+    "alt": "Rewers z modlitwą"
+   }
+  ],
+  "desc": "Posrebrzana płaskorzeźba malowana ręcznie farbami olejnymi. Na rewersie modlitwa.",
+  "tags": [],
+  "search": "płaskorzeźba matka boża częstochowska z nimbem p001 płaskorzeźba posrebrzana, malowanie olejne "
+ },
+ {
+  "id": "p002",
+  "sku": "P002",
+  "name": "Płaskorzeźba Matka Boża Częstochowska w koronie",
+  "cat": "wizerunki",
+  "price": null,
+  "made": true,
+  "engrave": false,
+  "material": "płaskorzeźba posrebrzana, malowanie olejne",
+  "sizes": [
+   {
+    "code": "P002A",
+    "label": "6 × 10 cm"
+   },
+   {
+    "code": "P002B",
+    "label": "4 × 7 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/p002.webp",
+    "alt": "Płaskorzeźba Matka Boża Częstochowska w koronie"
+   },
+   {
+    "src": "img/p/p002-2.webp",
+    "alt": "Rewers z modlitwą"
+   }
+  ],
+  "desc": "Posrebrzana płaskorzeźba malowana ręcznie farbami olejnymi. Na rewersie modlitwa.",
+  "tags": [],
+  "search": "płaskorzeźba matka boża częstochowska w koronie p002 płaskorzeźba posrebrzana, malowanie olejne "
+ },
+ {
+  "id": "p003",
+  "sku": "P003",
+  "name": "Płaskorzeźba Matka Boża Ostrobramska",
+  "cat": "wizerunki",
+  "price": null,
+  "made": true,
+  "engrave": false,
+  "material": "płaskorzeźba posrebrzana, malowanie olejne",
+  "sizes": [
+   {
+    "code": "P003",
+    "label": ""
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/p003.webp",
+    "alt": "Płaskorzeźba Matka Boża Ostrobramska"
+   },
+   {
+    "src": "img/p/p003-2.webp",
+    "alt": "Wersja z podpisem"
+   }
+  ],
+  "desc": "Posrebrzana płaskorzeźba malowana ręcznie farbami olejnymi.",
+  "tags": [],
+  "search": "płaskorzeźba matka boża ostrobramska p003 płaskorzeźba posrebrzana, malowanie olejne "
+ },
+ {
+  "id": "s019",
+  "sku": "S019",
+  "name": "Szkaplerz ażurowy „Regina Poloniae ora pro nobis”",
+  "cat": "wizerunki",
+  "price": null,
+  "made": true,
+  "engrave": false,
+  "material": "płaskorzeźba posrebrzana, malowanie olejne",
+  "sizes": [
+   {
+    "code": "S019",
+    "label": "8,5 × 9,5 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/s019.webp",
+    "alt": "Szkaplerz ażurowy „Regina Poloniae ora pro nobis”"
+   }
+  ],
+  "desc": "Szkaplerz z wizerunkiem Matki Bożej Częstochowskiej, płaskorzeźba posrebrzana malowana ręcznie farbami olejnymi.",
+  "tags": [],
+  "search": "szkaplerz ażurowy „regina poloniae ora pro nobis” s019 płaskorzeźba posrebrzana, malowanie olejne "
+ },
+ {
+  "id": "w004",
+  "sku": "W004",
+  "name": "Kapliczka stojąca Matka Boża Częstochowska",
+  "cat": "wizerunki",
+  "price": null,
+  "made": true,
+  "engrave": false,
+  "material": "płaskorzeźba posrebrzana",
+  "sizes": [
+   {
+    "code": "W004",
+    "label": "3,5 × 5 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/w004.webp",
+    "alt": "Kapliczka stojąca Matka Boża Częstochowska"
+   }
+  ],
+  "desc": "Stojąca kapliczka, płaskorzeźba posrebrzana. Pakowana w woreczek strunowy.",
+  "tags": [],
+  "search": "kapliczka stojąca matka boża częstochowska w004 płaskorzeźba posrebrzana "
+ },
+ {
+  "id": "w001",
+  "sku": "W001",
+  "name": "Wizerunek św. Jana Pawła II w ramce",
+  "cat": "wizerunki",
+  "price": null,
+  "made": true,
+  "engrave": false,
+  "material": "odlew, metal",
+  "sizes": [
+   {
+    "code": "W001",
+    "label": "4 × 6 cm"
+   }
+  ],
+  "imgs": [
+   {
+    "src": "img/p/w001.webp",
+    "alt": "Wizerunek św. Jana Pawła II w ramce"
+   },
+   {
+    "src": "img/p/w001-2.webp",
+    "alt": "W opakowaniu prezentowym"
+   }
+  ],
+  "desc": "Metalowy odlew z wizerunkiem Jana Pawła II, w opakowaniu prezentowym.",
+  "tags": [],
+  "search": "wizerunek św. jana pawła ii w ramce w001 odlew, metal "
+ }
+]
