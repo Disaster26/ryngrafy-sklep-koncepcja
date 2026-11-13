@@ -493,7 +493,10 @@ svg[viewBox="0 0 24 24"]{width:22px;height:22px;fill:none;stroke:currentColor;st
   .banks{grid-template-columns:repeat(2,minmax(0,1fr))}
   .cartpage .line{grid-template-columns:78px minmax(0,1fr)}
   .cartpage .lp{grid-column:2;text-align:left}
-  .inst-rail{grid-auto-columns:46%;margin-right:-16px;padding-right:16px}
+  .inst-rail{grid-auto-columns:62%;margin-right:-16px;padding-right:16px}
+  .ben{grid-template-columns:minmax(0,1fr);gap:18px}
+  .ben div{padding-bottom:18px;border-bottom:1px solid var(--line)}
+  .ben div:last-child{border-bottom:0;padding-bottom:0}
   .ftr-grid{gap:26px 16px}
   .ftr-bot{flex-direction:column;align-items:flex-start}
   .engr-fig{aspect-ratio:4/3}
